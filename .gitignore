@@ -1,4 +1,5 @@
 node_modules
 dist
 .env
-.vite
+*.json
+green-grass-471818-m7-b9aac751f72f.json
