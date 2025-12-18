@@ -1,5 +1,7 @@
 node_modules
 dist
+build
 .env
-*.json
+firebase-adminsdk*.json
+serviceAccount*.json
 green-grass-471818-m7-b9aac751f72f.json
